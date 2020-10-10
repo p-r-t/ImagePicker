@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">圖像選擇器</string>
+    <string name="title_choose_image_provider">選擇</string>
+    <string name="action_cancel">取消</string>
+    <string name="title_gallery">畫廊</string>
+    <string name="title_camera">相機</string>
+    <string name="message_gallery_permission_denied">需要讀取外部存儲權限才能選擇圖像。請從“設置”>“權限”中打開請求的權限。</string>
+    <string name="message_camera_permission_denied">需要相機和外部存儲權限才能捕獲圖像。關閉任何權限將不允許應用程序平穩運行。請從“設置”>“權限”中打開所有請求的權限。</string>
+    <string name="error_task_cancelled">任務已取消</string>
+    <string name="error_failed_to_compress_image">無法壓縮圖像</string>
+    <string name="error_failed_to_crop_image">無法裁剪圖像</string>
+    <string name="error_failed_pick_gallery_image">無法選擇圖庫圖片</string>
+</resources>

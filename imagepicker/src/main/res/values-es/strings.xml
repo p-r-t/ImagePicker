@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Selector de imágenes</string>
+    <string name="title_choose_image_provider">Escoger</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="title_gallery">Galería</string>
+    <string name="title_camera">Cámara</string>
+    <string name="message_gallery_permission_denied">Se necesitan permisos de lectura de almacenamiento externo para seleccionar Imagen. Active los permisos solicitados en Configuración> Permisos.</string>
+    <string name="message_camera_permission_denied">Se necesitan permisos de cámara y almacenamiento externo para capturar imágenes. Desactivar cualquier permiso no permitirá que la aplicación se ejecute sin problemas. Active todos los permisos solicitados desde Configuración> Permisos.</string>
+    <string name="error_failed_to_create_camera_image_file">No se pudo crear el archivo de imagen de la cámara</string>
+    <string name="error_failed_pick_gallery_image">No se pudo elegir la imagen de la Galería</string>
+    <string name="error_failed_to_crop_image">No se pudo recortar la imagen</string>
+    <string name="error_failed_to_compress_image">Failed to compress image</string>
+    <string name="error_task_cancelled">Tarea cancelada</string>
+</resources>

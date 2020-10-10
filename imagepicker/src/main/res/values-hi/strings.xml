@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">छवि पिकर</string>
+    <string name="title_choose_image_provider">चुनें</string>
+    <string name="action_cancel">रद्द करना</string>
+    <string name="title_gallery">गेलरी</string>
+    <string name="title_camera">कैमरा</string>
+    <string name="message_gallery_permission_denied">छवि को चुनने के लिए बाहरी संग्रहण अनुमतियों को पढ़ें। कृपया सेटिंग्स> अनुमतियों से अनुरोधित अनुमतियों को चालू करें।</string>
+    <string name="message_camera_permission_denied">इमेज कैप्चर करने के लिए कैमरा और एक्सटर्नल स्टोरेज परमिशन की जरूरत होती है। किसी भी अनुमति को बंद करने से एप्लिकेशन आसानी से नहीं चल सकेगा। कृपया सेटिंग> अनुमतियां से सभी अनुरोधित अनुमतियां चालू करें।</string>
+    <string name="error_failed_to_create_camera_image_file">कैमरा छवि फ़ाइल बनाने में विफल</string>
+    <string name="error_failed_pick_gallery_image">गैलरी छवि लेने में विफल</string>
+    <string name="error_failed_to_compress_image">छवि को संपीड़ित करने में विफल</string>
+    <string name="error_failed_to_crop_image">छवि को संपीड़ित करने में विफल</string>
+    <string name="error_task_cancelled">कार्य रद्द कर दिया गया</string>
+</resources>

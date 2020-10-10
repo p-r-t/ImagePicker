@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Image Picker</string>
+    <string name="title_choose_image_provider">"أختر"</string>
+    <string name="action_cancel">إلغاء</string>
+    <string name="title_gallery">صالة عرض</string>
+    <string name="title_camera">الة تصوير</string>
+    <string name="error_failed_to_create_camera_image_file">فشل إنشاء ملف صورة الكاميرا</string>
+    <string name="error_failed_pick_gallery_image">فشل اختيار صورة المعرض</string>
+    <string name="error_failed_to_crop_image">فشل اقتصاص الصورة</string>
+    <string name="error_failed_to_compress_image">فشل ضغط الصورة</string>
+    <string name="error_task_cancelled">تم إلغاء المهمة</string>
+    <string name="message_gallery_permission_denied">قراءة أذونات التخزين الخارجية مطلوبة لتحديد صورة. يرجى تشغيل الأذونات المطلوبة من الإعدادات> الأذونات.</string>
+    <string name="message_camera_permission_denied">هناك حاجة إلى أذونات الكاميرا والتخزين الخارجي لالتقاط الصورة. لن يؤدي إيقاف تشغيل أي إذن إلى السماح بتشغيل التطبيق بسلاسة. يرجى تشغيل جميع الأذونات المطلوبة من الإعدادات> الأذونات.</string>
+</resources>
